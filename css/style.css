@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    text-align: center;
+    line-height: 1.2;
+    background: lightgoldenrodyellow;
+}
+
+h2 {
+    color: lightblue;
+}
+
+span {
+    font-style: italic;
+}
