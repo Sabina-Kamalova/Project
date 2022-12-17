@@ -8,22 +8,10 @@ body {
     background: lightgoldenrodyellow;
 }
 
-.container {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    margin: 20px;
-    padding: 20px;
-}
 h2 {
     color: blueviolet;
 }
 
-.song {
-    flex-wrap: wrap;
-    margin 0 auto;
-    padding: 20px;
-}
 p {
     padding: 96px;
     text-align: center;
