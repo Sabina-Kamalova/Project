@@ -12,6 +12,10 @@ h2 {
     color: blueviolet;
 }
 
+.song {
+    margin 0 auto;
+    padding: 20px;
+}
 p {
     padding: 96px;
     text-align: center;
